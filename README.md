@@ -14,6 +14,6 @@ Criei este repositório com o nome analise_sentimentos.
 
 ## 2. Criação da Pasta 'inputs' e Documento de Texto
 
-[Print da estrutura de pastas no repositório (mostrando a pasta 'inputs' e o arquivo 'sentencas_generos.txt')]
+[Print da estrutura de pastas no repositório (mostrando a pasta 'inputs', arquivo 'sentencas.py' e o arquivo 'sentencas.txt' )]
 
 Dentro da pasta `inputs`, adicionei o arquivo `sentencas.txt` contendo as sentenças de terror e comédia fornecidas para análise.
